@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/SvenSaveno" target="_blank">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of the Faculty of Information Systems and Technologies. Teacher of technical disciplines 🇷🇺</h3>
+<h3 align="center">Student of the Faculty of Information Systems and Technologies && Teacher of technical disciplines 🇷🇺</h3>
 
 <!--
 **SvenAventador/SvenAventador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,5 +82,11 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/">
+    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+  </a>
+  <a href="https://www.jetbrains.com/ru-ru/rider/">
+    <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
   </a>
 </p>
