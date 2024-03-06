@@ -93,4 +93,7 @@ Here are some ideas to get you started:
   <a href="https://www.jetbrains.com/ru-ru/rider/">
     <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
   </a>
+  <a href="https://www.jetbrains.com/ru-ru/rider/">
+    <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
+  </a>
 </p>
