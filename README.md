@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/SvenSaveno" target="_blank">Alexander</a> 
-<img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://media.tenor.com/7pGKKndDIFcAAAAi/akirambow-smile-person.gif)" height="32"/></h1>
+<img src="https://media.tenor.com/7pGKKndDIFcAAAAi/akirambow-smile-person.gif" height="32"/></h1>
 <h3 align="center">Student of the Faculty of Information Systems and Technologies && Teacher of technical disciplines 🇷🇺</h3>
 
 <!--
