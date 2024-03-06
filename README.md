@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/SvenSaveno" target="_blank">Alexander</a> 
 <img src="https://media.tenor.com/7pGKKndDIFcAAAAi/akirambow-smile-person.gif" height="32"/></h1>
 <h3 align="center">Student of the Faculty of Information Systems and Technologies && Teacher of technical disciplines 🇷🇺</h3>
-
+<h1 align="center">
+  <p>This is a beautiful cat!</p>
+  <img src="https://media1.tenor.com/m/jysc1QyPQjsAAAAd/cat-dance.gif" height="150"/>
+</h1>
 <!--
 **SvenAventador/SvenAventador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
